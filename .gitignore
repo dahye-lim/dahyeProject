@@ -1,0 +1,36 @@
+# Obsidian workspace state (device-specific, changes frequently)
+**/.obsidian/workspace
+**/.obsidian/workspace*.json
+**/.obsidian/workspaces.json
+
+# Obsidian cache
+**/.obsidian/cache
+**/.obsidian/.cache
+
+# Obsidian plugin data (runtime state, not config)
+**/.obsidian/plugins/*/data.json
+
+# Obsidian sync/backup internals
+**/.obsidian/sync.json
+
+# Obsidian trash
+.trash/
+
+# iCloud Drive sync artifacts
+*.icloud
+.icloud
+
+# Windows
+desktop.ini
+Thumbs.db
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temp files
+*.tmp
+*.temp
+~$*
